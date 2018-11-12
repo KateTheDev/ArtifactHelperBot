@@ -57,7 +57,7 @@ public class EarnBot extends TelegramLongPollingBot {
             sendmessage.setChatId(chatid);
             checkExp(sendmessage);
         } else {
-            text = "Упс... Кажется, Вы совершили ошибку при вводе! Вот пример ввода:\n+38012345678\nIPhone 10";
+            text = "Упс... Кажется, Вы совершили ошибку при вводе! Вот пример ввода:\n+38012345678\nIPhone 10\nvasya123@gmail.com";
             sendmessage.setText(text);
             sendmessage.setChatId(chatid);
             checkExp(sendmessage);
