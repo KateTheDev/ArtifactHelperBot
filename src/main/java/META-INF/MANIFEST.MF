@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: ES_Bot
+Main-Class: com.company.Main
+
