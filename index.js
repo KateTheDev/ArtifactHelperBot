@@ -1,1 +1,0 @@
-const TOKEN = '656140296:AAEr_grx__yJB8nBQhoyBsc2xFrlSH_sDgQ';
