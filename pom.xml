@@ -59,7 +59,7 @@
                     <assembleDirectory>target</assembleDirectory>
                     <programs>
                         <program>
-                            <mainClass>classes.com.company.Main</mainClass>
+                            <mainClass>com.company.Main</mainClass>
                             <name>worker</name>
                         </program>
                     </programs>
