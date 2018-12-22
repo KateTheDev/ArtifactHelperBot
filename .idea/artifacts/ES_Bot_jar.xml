@@ -2,7 +2,7 @@
   <artifact type="jar" name="ES_Bot:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/ES_Bot_jar</output-path>
     <root id="archive" name="ES_Bot.jar">
-      <element id="module-output" name="ES_Bot" />
+      <element id="module-output" name="ArtifactHelperBot" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/jaxrs/jackson-jaxrs-base/2.8.7/jackson-jaxrs-base-2.8.7.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/telegram/telegrambots/4.1/telegrambots-4.1.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0.jar" path-in-jar="/" />

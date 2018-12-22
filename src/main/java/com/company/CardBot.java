@@ -14,8 +14,8 @@ import java.util.List;
 
 
 public class CardBot extends TelegramLongPollingBot {
-    private static final String Botname = "Test_BotBot";
-    private static final String Botttoken = "745545410:AAGf8rZt7NjR7yFXDvRcZA6Uv2EP0OOUNco";
+    private static final String Botname = "ArtifactHelper";
+    private static final String Botttoken = "697142603:AAFF2YlzfbmAdMLwTsvbEYcSp9UF2oWvfIA";
 
 
     @Override
